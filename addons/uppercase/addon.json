@@ -1,0 +1,19 @@
+{
+    "name": "Uppercase Scratch",
+    "description": "Rende i blocchi in maiuscolo",
+    "tags": ["editor", "uppercase", "dsa", "dyslexia"],
+    "enabledByDefault": false,
+    "credits": [
+        {
+          "name": "Mondo Computazionale",
+          "link": "https://scratch.mit.edu/users/MondoScratch"
+        }
+      ],
+      "userstyles": [
+        {
+          "url": "style.css",
+          "matches": ["https://scratch.mit.edu/projects/*"]
+        }
+      ]    
+  }
+  
